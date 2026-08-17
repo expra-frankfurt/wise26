@@ -1,7 +1,7 @@
 
 # Welcome!
 
-Hello everyone and welcome to the course website for the EXPRA 2025/2026 at Goethe University Frankfurt.
+Hello everyone and welcome to the course website for the EXPRA 2026/2027 at Goethe University Frankfurt.
 
 The “EXPRA” (German: Empirisch-experimentelles Praktikum) is a practical, hands-on seminar designed to teach you the theoretical and especially the practical aspects of psychological research.
 
