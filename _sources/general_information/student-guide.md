@@ -82,9 +82,7 @@ statistics, aggregating data, correlation and regression analyses, dependent and
 sample t-tests, repeated-measure ANOVAs, and assumption tests for the different procedures.
 If you need a brush-up for these topics, have a look at the PsyBSc2 and PsyBSc7 course
 materials and work through them before the EXPRA begins. **Important: The EXPRA will NOT
-include a repetition of basic statistics!** However, if you run into troubles using R, Martin
-Schultze’s department is offering an “R Sprechstunde” for EXPRA students. More information
-on this will be shared at the beginning of the semester.
+include a repetition of basic statistics!**
 
 
 ### Can I use AI tools to write code and reports in the EXPRA?
