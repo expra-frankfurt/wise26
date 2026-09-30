@@ -117,9 +117,9 @@ The initial impression is crucial, with the first 10 seconds often determining i
 The aim is for viewers to grasp a lot at a glance with minimal reading. The less text required for understanding, the clearer your poster will be (Burkhardt et al., 2017; ISEK, 2014).
 
 - content reduction: condense information to core statements & highlight results
-- text vs. image ratio: rule of thumb = 50% images & 50% text  
+- text vs. image ratio: rule of thumb: 50% text, 50% visuals and white space 
 <img src="../_static/text-image-ratio.png" alt="Image that visualizes an optimal text vs. image ratio: 50% text, 40% images, 20% free space" width="300 px">  
-- text formatting: short, continuous text rather than bullet points or long paragraphs
+- text formatting: short, continuous text rather than long paragraphs
 - font choice: sans-serif fonts (e.g. Arial, Calibri) are easier to read from a distance than serif fonts
 - font size: poster should be readable from a distance of up to 3 meters, therefore also use large line spacing (at least 6-7 mm) 
   - orientation aids for font sizes:
@@ -195,7 +195,7 @@ _If using PowerPoint set gridlines to be visible (Ansicht -> Anzeigen -> Gittern
 	- Design level: Is the design appropriate (e.g. choice of colors)? Are graphics or images used and arranged sensibly? Is everything easy to read?
 	- Formal level: Have the formal design specifications been implemented? Is the literature cited correctly? Is the spelling and punctuation correct?
 - If necessary, test the readability of your poster on your computer by viewing the document at its actual print size before sending it to print.
-- Always perform a test print, even on a smaller scale (e.g., A4 paper), as printed colours often differ from those displayed on a scree
+- Always perform a test print, even on a smaller scale (e.g., A4 paper), as printed colours often differ from those displayed on a screen.
 
 ## 5. Excursus: Rethinking poster designs with #BetterPoster 
 <small>Based on Morrison, 2019, 2020. </small>
@@ -229,6 +229,8 @@ _For more information watch [https://www.youtube.com/watch?v=SYk29tnxASs](https:
 ```
 
 ## 6. Example Posters 
+
+The following posters are examples, not necessarily ideals, meant to show the range of ways a poster can look. They are open to discussion, since judging a poster is partly subjective: some might contain too much text or work only for specific research designs or research questions.
 
 ![Image of an example poster by Forberich et al. with a lot of text.](../_static/poster-example1.png)  
 
