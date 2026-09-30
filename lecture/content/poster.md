@@ -29,9 +29,9 @@ In this session, we will cover:
 
 ## 1. Why are _good_ scientific posters important? 
 <small>Based on Burkhardt et al, 2017.</small>  
--	Visual Communication & Simplification: Posters serve as a visual aid to clearly present complex scientific information and summarize research results concisely.
--	Discussion & Scientific Exchange: Their primary purpose is to stimulate discussions and encourage viewers to interact with the presenter.
--	Fundamental Competence: The ability to present one’s project understandably is an essential competence in academic studies and professional scientific fields. 
+- Visual Communication & Simplification: Posters serve as a visual aid to clearly present complex scientific information and summarize research results concisely.
+- Discussion & Scientific Exchange: Their primary purpose is to stimulate discussions and encourage viewers to interact with the presenter.
+- Fundamental Competence: The ability to present one’s project understandably is an essential competence in academic studies and professional scientific fields. 
 
 ## 2. What is a scientific poster and how is it structured?
 
@@ -45,29 +45,29 @@ A scientific poster is a visual communication medium primarily used to summarize
 <small>Based on Burkhardt et al., 2017; ISEK, 2014.</small>
 
 **1.	Title & Authorship**
--	capture viewer’s attention
--	title = meaningful, attractive, concentrating on the project’s core message, formulated as a question or clear statement 
--	place names & titles of participating scientists, along with the logo of the institution / company they represent
+- capture viewer’s attention
+- title = meaningful, attractive, concentrating on the project’s core message, formulated as a question or clear statement 
+- place names & titles of participating scientists, along with the logo of the institution / company they represent
 
 **2.	Introduction**
--	place topic within a broader scientific context / current state of research
--	clarify key terms 
+- place topic within a broader scientific context / current state of research
+- clarify key terms 
 
 **3.	Methodological Background**
--	present materials & methods: self-explanatory graphics may help to illustrate experimental procedures
--	brief sample description
+- present materials & methods: self-explanatory graphics may help to illustrate experimental procedures
+- brief sample description
 
 **4.	Results**
--	present findings of the research graphically, using diagrams, photos, schematics, etc.
--	visuals should be accompanied by short, explanatory text that summarizes the most important findings
--	aim: visuals speaking largely for themselves, requiring minimal text for understanding
+- present findings of the research graphically, using diagrams, photos, schematics, etc.
+- visuals should be accompanied by short, explanatory text that summarizes the most important findings
+- aim: visuals speaking largely for themselves, requiring minimal text for understanding
 
 **5.	Discussion**
--	interpret the findings
--	connect findings to broader theoretical and practical implications & future research 
+- interpret the findings
+- connect findings to broader theoretical and practical implications & future research 
 
 **6.	References / Bibliography**
--	cite all literature to avoid plagiarism (APA format)
+- cite all literature to avoid plagiarism (APA format)
 
 ````{tip}
 ```{figure} ../_static/wh-questions.png
@@ -79,12 +79,12 @@ align: right
 
 Wh-Questions to help structure your poster:  
 (Studierwerkstatt an der Universität Bremen, o. D.)
--	WHO investigates
--	WHAT
--	HOW
--	with WHICH result
--	for WHICH aim
--	on WHICH basis?                             
+- WHO investigates
+- WHAT
+- HOW
+- with WHICH result
+- for WHICH aim
+- on WHICH basis?                             
 ````
 
 ## 3. Design principles – 3 levels of engagement 
@@ -95,16 +95,16 @@ The following always applies to the design: avoid superfluous and disruptive ele
 ### Look at me – attracting attention & first impression 
 <small>Based on ISEK, 2014.</small>    
 The initial impression is crucial, with the first 10 seconds often determining if your poster generates interest (Burkhardt et al., 2017).  
--	divide poster into sections such as title, introduction, methodological background, results, discussion and references
--	white space is crucial to loosen up the poster & prevent overload
--	frames around text boxes are not necessary (if used, they should be fine lines, as bold ones may appear narrowing)
--	background images can make a poster illegible, a background in just one colour usually provides a greater contrast to the text
--	use of colours: 
-   -	subtle & harmonious (too strong / bright colours may attract attention, but are tiring to read; soft colours radiate calm; dark / strong colours can appear restless; avoid colour gradients)
-   -	putting information in the same colour may highlight their relation to each other 
-   -	font colour should strongly contrast with the background (dark colours on a bright background are the easiest to read)
--	posters are typically in portrait format; DIN A0 (118.8 x 84.1cm) is the standard size in the ExPra, DIN A1 (84.1 x 59.4cm) may be used elsewhere
--	visual hierarchy guides the viewer´s attention, ensuring that key elements are seen first and the reading flow is intuitive rather than confusing (https://www.youtube.com/watch?v=4x0SLtCVFho)   
+- divide poster into sections such as title, introduction, methodological background, results, discussion and references
+- white space is crucial to loosen up the poster & prevent overload
+- frames around text boxes are not necessary (if used, they should be fine lines, as bold ones may appear narrowing)
+- background images can make a poster illegible, a background in just one colour usually provides a greater contrast to the text
+- use of colours: 
+   - subtle & harmonious (too strong / bright colours may attract attention, but are tiring to read; soft colours radiate calm; dark / strong colours can appear restless; avoid colour gradients)
+   - putting information in the same colour may highlight their relation to each other 
+   - font colour should strongly contrast with the background (dark colours on a bright background are the easiest to read)
+- posters are typically in portrait format; DIN A0 (118.8 x 84.1cm) is the standard size in the ExPra, DIN A1 (84.1 x 59.4cm) may be used elsewhere
+- visual hierarchy guides the viewer´s attention, ensuring that key elements are seen first and the reading flow is intuitive rather than confusing (https://www.youtube.com/watch?v=4x0SLtCVFho)   
 <p align="center">
   <img alt="" src="../_static/visual-guidance1.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -141,12 +141,12 @@ Design your poster to encourage viewers to engage with you (Burkhardt et al., 20
 <small>Based on Burkhardt et al, 2017; ISEK, 2014; Studierwerkstatt an der Universität Bremen, o. D.</small>
 
 **1.	Plan the work process**
--	Familiarize yourself with the design requirements & purpose of scientific poster. Plan your workflow by outlining what needs to be completed and by when.
--	Allocate sufficient time for the professional printing of your poster.
+- Familiarize yourself with the design requirements & purpose of scientific poster. Plan your workflow by outlining what needs to be completed and by when.
+- Allocate sufficient time for the professional printing of your poster.
 
 **2.	Develop content for the poster**
--	Translate your research findings into a poster-friendly format.
--	You may start by sketching your ideas on paper to visualize the arrangement of content elements 
+- Translate your research findings into a poster-friendly format.
+- You may start by sketching your ideas on paper to visualize the arrangement of content elements 
 
 <div align="center">
 
@@ -169,12 +169,12 @@ Design your poster to encourage viewers to engage with you (Burkhardt et al., 20
 
 </div>
 
--	When determining the final content, extract the core statements from your findings. A useful technique is to categorize information into "Need to know", "Good to know" and "Nice to know", prioritizing the "Need to know" information as it is crucial for understanding.
--	Emphasize your results, not the methods used.
+- When determining the final content, extract the core statements from your findings. A useful technique is to categorize information into "Need to know", "Good to know" and "Nice to know", prioritizing the "Need to know" information as it is crucial for understanding.
+- Emphasize your results, not the methods used.
 
 **3.	Create a draft of the poster**
--	If using a program like PowerPoint, immediately set the correct poster size when you start the file. 
--	Process and optimize images before inserting them into the poster (e.g., using image editing software).
+- If using a program like PowerPoint, immediately set the correct poster size when you start the file. 
+- Process and optimize images before inserting them into the poster (e.g., using image editing software).
 
 :::{admonition} Tools & technical setup
 :class: note
