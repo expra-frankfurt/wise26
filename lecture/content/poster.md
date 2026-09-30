@@ -100,9 +100,9 @@ The initial impression is crucial, with the first 10 seconds often determining i
 -	frames around text boxes are not necessary (if used, they should be fine lines, as bold ones may appear narrowing)
 -	background images can make a poster illegible, a background in just one colour usually provides a greater contrast to the text
 -	use of colours: 
-  -	subtle & harmonious (too strong / bright colours may attract attention, but are tiring to read; soft colours radiate calm; dark / strong colours can appear restless; avoid colour gradients)
-  -	putting information in the same colour may highlight their relation to each other 
-  -	font colour should strongly contrast with the background (dark colours on a bright background are the easiest to read)
+   -	subtle & harmonious (too strong / bright colours may attract attention, but are tiring to read; soft colours radiate calm; dark / strong colours can appear restless; avoid colour gradients)
+   -	putting information in the same colour may highlight their relation to each other 
+   -	font colour should strongly contrast with the background (dark colours on a bright background are the easiest to read)
 -	posters are typically in portrait format; DIN A0 (118.8 x 84.1cm) is the standard size in the ExPra, DIN A1 (84.1 x 59.4cm) may be used elsewhere
 -	visual hierarchy guides the viewer´s attention, ensuring that key elements are seen first and the reading flow is intuitive rather than confusing (https://www.youtube.com/watch?v=4x0SLtCVFho)   
 <p align="center">
